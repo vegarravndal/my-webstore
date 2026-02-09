@@ -50,7 +50,7 @@ const Navbar = ({ cart, openCart }: NavbarProps) => {
         {/* Logo + Desktop */}
         <div className="flex items-center space-x-6">
           <Link to="/" className="flex items-center">
-            <img src="/images/logo.jpeg" alt="Logo" className="h-20 w-auto" />
+            <img src="/images/logo.jpg" alt="Logo" className="h-20 w-auto" />
           </Link>
 
           {/* Desktop meny */}

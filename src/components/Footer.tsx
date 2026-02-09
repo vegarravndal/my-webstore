@@ -7,7 +7,7 @@ export function Footer() {
         {/* Left Side with Logo and Paragraph */}
         <div className="flex flex-col items-start">
           <img
-            src="/images/logo.jpeg"
+            src="/images/logo.jpg"
             alt="Logo"
             className="h-20 w-auto mb-4"
           />
